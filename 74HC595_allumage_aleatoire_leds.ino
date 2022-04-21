@@ -1,6 +1,7 @@
 /*
 	DATE 	: 20/04/2022
 	AUTHEUR : RACHEL SYSTEME 
+	YOUTUBE : https://youtu.be/VaY-VGB0h5g
 
 	Ce programme permet d'allumer un ensemble de 8 leds via un
 	registre à décalage 74HC595 de façon aléatoire.
