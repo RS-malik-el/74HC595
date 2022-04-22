@@ -1,7 +1,7 @@
 /*
   DATE  : 21/04/2022
   AUTHEUR : RACHEL SYSTEME 
-  YOUTUBE : https://youtu.be/VaY-VGB0h5g
+  YOUTUBE : https://youtu.be/3zTXSpTLluk
   
   Ce programme permet d'allumer un ensemble de 16 leds via deux
   registres à décalage 74HC595 connecté en série.
