@@ -1,6 +1,6 @@
 /*
 	DATE 	: 20/04/2022
-	AUTHEUR : RACHEL SYSTEME 
+	AUTEUR : Exaucé KIMBEMBE / OpenProgramming
 	YOUTUBE : https://youtu.be/VaY-VGB0h5g
 
 	Ce programme permet d'allumer un ensemble de 8 leds via un
