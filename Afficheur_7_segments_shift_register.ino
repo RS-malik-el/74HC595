@@ -1,6 +1,7 @@
 /*
 	DATE 	: 29/04/2022
-	AUTHEUR : RACHEL SYSTEME 
+	email : openprogramming23@gmail.com
+	AUTEUR : Exaucé KIMBEMBE / OpenProgramming
 
 	Ce programme permet d'afficher sur un afficheur 7 segments
 	utilisant un registre à décalage 74HC595 des chiffres allons
