@@ -1,6 +1,7 @@
 /*
   DATE  : 21/04/2022
-  AUTHEUR : RACHEL SYSTEME 
+  email : openprogramming23@gmail.com
+	AUTEUR : Exaucé KIMBEMBE / OpenProgramming
   YOUTUBE : https://youtu.be/3zTXSpTLluk
   
   Ce programme permet d'allumer un ensemble de 16 leds via deux
